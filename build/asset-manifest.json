@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.fe2d7202.css",
+    "main.js": "./static/js/main.88bf2024.js",
+    "static/media/ocean-waves.mp3": "./static/media/ocean-waves.b4d773f71448324b0a2b.mp3",
+    "index.html": "./index.html",
+    "static/media/speaker-off.svg": "./static/media/speaker-off.40313f2058a341edd64e8dc7c60b19a0.svg",
+    "static/media/speaker-on.svg": "./static/media/speaker-on.f8d9efa5dd6850d1357dd329c65baf88.svg",
+    "main.fe2d7202.css.map": "./static/css/main.fe2d7202.css.map",
+    "main.88bf2024.js.map": "./static/js/main.88bf2024.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe2d7202.css",
+    "static/js/main.88bf2024.js"
+  ]
+}
